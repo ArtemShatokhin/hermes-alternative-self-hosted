@@ -59,4 +59,6 @@ Self-hosting puts the whole platform on hardware your team controls. The first r
 
 If you are still choosing between agents, start with the side-by-side [list of open-source Hermes alternatives](https://hermesalternative.com/hermes-alternatives) and who each one fits. The longer [Kortix vs Hermes comparison](https://hermesalternative.com/kortix-vs-hermes) walks each dimension, from tenancy to history. The browser-friendly [self-hosting walkthrough](https://hermesalternative.com/self-hosting-hermes-alternative) repeats the setup on the site. [Migrate from Hermes](https://hermesalternative.com/migrate-from-hermes) covers what moves and in what order. The [Hermes alternative FAQ](https://hermesalternative.com/faq) answers the short questions a team asks before it switches.
 
+Two more pages fill in the edges of the decision: [how Kortix handles security](https://hermesalternative.com/hermes-agent-security) when the stack is yours, and [what self-host and the managed plan each cost](https://hermesalternative.com/is-hermes-agent-free). If the team is not off a single machine yet, the [Hermes Agent install steps](https://hermesalternative.com/how-to-install-hermes-agent) cover the personal-agent path first.
+
 Open source · Any model, your keys · Self-host, VPC, or on-prem
